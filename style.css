@@ -6,7 +6,6 @@
 }
 .box-1{
     text-align: center;
-    border: 2px solid red;
 }
 .box-1 h1{
     font-weight: 700;
@@ -18,7 +17,6 @@
     width: 1200px;
     text-align: center;
     margin: auto;
-   border:   2px solid yellow;
 
 }
 .container{
@@ -27,7 +25,6 @@
     padding: 2rem;
     display: inline-block;
     height: 550px;
-     border:2px solid green
 }
 .container-1{
     background-color: #1e81b0;
