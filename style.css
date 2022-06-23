@@ -38,6 +38,7 @@
 .container-1 i{
     padding: 1rem;
     margin: 2rem 0 ;
+    color: whitesmoke;
 }
 .container-2{
     text-align: left;
@@ -55,6 +56,7 @@
     border-radius: 10rem;
     cursor: pointer;
     text-align: center;
+    margin-top: 1rem;
 }
 .container-2 button:hover{
     color: whitesmoke;
@@ -66,13 +68,13 @@
 }
 .container-3 i{
     padding:0.7rem ;
+    color: black;
 }
 
 @media(max-width:768px) {
-    *{
-        width: 100%;
-        box-sizing: border-box;
-    }
+   .box-1{
+    width: 100%;
+   }
     .box-2{
         width: 100%;
         display: block;
